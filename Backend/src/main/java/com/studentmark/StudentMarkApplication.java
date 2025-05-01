@@ -1,4 +1,4 @@
-package com.Student_mark.Student_Mark;
+package com.studentmark;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
