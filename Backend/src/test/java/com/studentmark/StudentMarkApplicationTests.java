@@ -1,4 +1,4 @@
-package com.Student_mark.Student_Mark;
+package com.studentmark;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
